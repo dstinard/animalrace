@@ -10,7 +10,7 @@ public class Ladybug extends Animal {
         this.species = "ladybug";
         this.waterSpeed = 1.6f;
         this.mesaSpeed = 13.452635492f;
-        this.forestSpeed = 0.2f;
+        this.forestSpeed = 1.2f;
     }
 
 }
