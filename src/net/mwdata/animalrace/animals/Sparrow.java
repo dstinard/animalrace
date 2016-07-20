@@ -8,7 +8,7 @@ public class Sparrow extends Animal {
     public Sparrow(String name) {
         this.name = name;
         this.species = "sparrow";
-        this.waterSpeed = 2.2f;
+        this.waterSpeed = 25000f;
         this.mesaSpeed = 2.1f;
         this.forestSpeed = 2.0f;
     }
