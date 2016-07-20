@@ -9,7 +9,7 @@ public class Guppy extends Animal {
         this.name = "Guppy";
         this.species = "guppy";
         this.waterSpeed = 5.4f;
-        this.mesaSpeed = 0.9f;
+        this.mesaSpeed = 40000f;
         this.forestSpeed = 1f;
     }
 
