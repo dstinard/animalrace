@@ -11,6 +11,9 @@ public class Ladybug extends Animal {
         this.waterSpeed = 1.6f;
         this.mesaSpeed = 13.452635492f;
         this.forestSpeed = 0.9f;
+        
+        //WATCH THIS IT IS IMPORTANT
+        //https://www.youtube.com/watch?v=HgQEuPw942c
     }
 
 }
