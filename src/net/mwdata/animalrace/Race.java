@@ -19,6 +19,7 @@ public class Race {
     // flag to determine if the race should continue
     public boolean stop = false;
 
+    // this is the constructor
     public Race(Animal[] contestants, BaseTerrain[] raceCourseTerrains) {
         this.racers = contestants;
         this.terrains = raceCourseTerrains;

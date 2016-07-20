@@ -10,7 +10,6 @@ public class Main {
         Animal[] animals = new Animal[] {
             new Guppy(),
             new Guppy("Fred"),
-            new Rhino("Ginger"),
             new Sparrow ("Flappy Bird")
         };
 
